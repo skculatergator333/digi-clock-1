@@ -1,0 +1,47 @@
+body {
+    background: #ffffff;
+  }
+  
+  h1 {
+    color: #80ffff;
+  }
+  
+  div {
+    width: 25%;
+    height: px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background: #00e6e6;
+  }
+  
+  #color1 {
+    flex: 1;
+    background: #e58e26;
+    color: #e58e26;
+  }
+  
+  #color2 {
+    flex: 1;
+    background: #f9b4ab;
+    color: #f9b4ab;
+  }
+  
+  #color3 {
+    flex: 1;
+    background: #b1fb17;
+    color: #b1fb17;
+  }
+  
+  #color4 {
+    flex: 1;
+    background: #78e08f;
+    color: #78e08f;
+  }
+  
+  #color5 {
+    flex: 1;
+    background: #fd79a8;
+    color: #fd79a8;
+  }
+  
